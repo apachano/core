@@ -9,9 +9,11 @@ Unzip minetest_core into minetest/games/
 ## Credit
 default mod forked from minetest_game default - [https://forum.minetest.net/viewtopic.php?f=15&t=9724]
 
+-------------------------------------------
+
 ## Frameworks
 
-This subgame is broken into separate frameworks based off their function.
+This subgame is broken into separate frameworks based off their function. All frameworks are intended to be an api for mods to use but not actually provide any content if possible. 
 
 ### Agriculture
 A basic framework for adding plants to the game
@@ -42,11 +44,11 @@ Use
 
 ### Mobs
 Some mod to provide good mod support until the engine supports it.
-Currently using mobs_redo https://forum.minetest.net/viewtopic.php?f=11&t=9917&hilit=mobs_redo
+Currently using mobs_redo [https://forum.minetest.net/viewtopic.php?f=11&t=9917&hilit=mobs_redo]
 Could consider
-- https://forum.minetest.net/viewtopic.php?f=11&t=8638
+- [https://forum.minetest.net/viewtopic.php?f=11&t=8638]
 
 ### Player altering
 
-? https://forum.minetest.net/viewtopic.php?f=11&t=10090
+? [https://forum.minetest.net/viewtopic.php?f=11&t=10090]
 
