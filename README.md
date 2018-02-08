@@ -15,6 +15,11 @@ default mod forked from minetest_game default - [https://forum.minetest.net/view
 
 This subgame is broken into separate frameworks based off their function. All frameworks are intended to be an api for mods to use but not actually provide any content if possible. 
 
+### Biomes
+Handles biomes in the game
+biome_lib is currently being used
+https://github.com/minetest-mods/biome_lib
+
 ### Agriculture
 A basic framework for adding plants to the game
 -Cross Breeding?
